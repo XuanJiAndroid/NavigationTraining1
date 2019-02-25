@@ -1,6 +1,6 @@
 # Android Navigation 架构组件入门教程
 ## 前言
- Navigation组件是AndroidStudio3.3.0版本更新带来的新组件，其特点是在一个Activity中使用多个Fragment处理平滑用户操作，且可以统一进场，退场，弹出，隐藏动画，可视化处理Action，支持深层链接(不在同一个Activity时可以弹出跳转，底层是BroadcastReceiver),支持以少量代码连接底部导航或者连接ActionBar菜单或者连接Drawlayout的MenuItem，且导航时提供了类型安全(SafeArgs)。好处说了那么多，下面咱们来看看具体如何使用吧！
+ Navigation组件是AndroidStudio3.2版本更新带来的新组件，其特点是在一个Activity中使用多个Fragment处理平滑用户操作，且可以统一进场，退场，弹出，隐藏动画，可视化处理Action，支持深层链接(不在同一个Activity时可以弹出跳转，底层是BroadcastReceiver),支持以少量代码连接底部导航或者连接ActionBar菜单或者连接Drawlayout的MenuItem，且导航时提供了类型安全(SafeArgs)。好处说了那么多，下面咱们来看看具体如何使用吧！
  
 ## 教程下载
 [教程github](https://github.com/XuanJiAndroid/NavigationTraining1)
