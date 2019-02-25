@@ -23,9 +23,11 @@
             android:id="@+id/next_action"
             app:destination="@id/mainFragment" />
     </fragment>
-    <fragment
-        android:id="@+id/settingFragment"
-        android:name="com.example.navigationtraining.SettingFragment"
-        android:label="fragment_setting"
-        tools:layout="@layout/fragment_setting" />
+    <!--实践过程 4 开始-->
+    <!--<fragment
+    android:id="@+id/settingFragment"
+    android:name="com.example.navigationtraining.SettingFragment"
+    android:label="fragment_setting"
+        tools:layout="@layout/fragment_setting" />-->
+    <!--实践过程 4 结束-->
 </navigation>
